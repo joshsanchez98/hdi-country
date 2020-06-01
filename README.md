@@ -1,2 +1,3 @@
 # hdi-country
-Personal data analysis of trends of Human Development Index.  Focus on national and subnational stats.
+About: 
+This is a personal data analysis of trends of Human Development Index.  The analysis looks at national and subnational statistics taken from data online.
